@@ -1,0 +1,25 @@
+.product-container{
+    margin-top: 5%;
+    padding: 100px !important;
+
+}
+
+.features-position{
+    margin-top: 100px;
+}
+
+.price{
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+.card{    
+    padding: 10px;
+}
+
+.brand-name-text{
+    color: #a85ff1 !important;
+}
