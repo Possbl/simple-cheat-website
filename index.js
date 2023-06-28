@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', function() {
     cardElements.forEach(function(cardElement) {
         cardElement.addEventListener('mouseenter', function() {
             cardElement.classList.add('fa-beat');
-            console.log('working');
         });
 
         cardElement.addEventListener('mouseleave', function() {
